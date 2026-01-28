@@ -1,5 +1,5 @@
 baseURL = "https://sofiakodar.github.io/"
-title = "Sofia kodar och skriver"
+title = "sofiakodar.github.io"
 
 theme = "PaperMod"
 
@@ -7,4 +7,5 @@ theme = "PaperMod"
   defaultTheme = "auto"
   ShowReadingTime = true
   ShowCodeCopyButtons = true
-
+  disableSpecial1stPost = true
+  

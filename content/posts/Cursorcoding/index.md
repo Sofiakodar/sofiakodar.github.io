@@ -41,7 +41,7 @@ Cursor raised some good questions about tech choices (for example which database
 
 ### Tips and tricks for getting started and setup 
 - Writing a description is very valuable  (see above). I later described and discussed larger features with Cursor during implementation.  
-- Even though I gave Cursor strict instructions about the engineering practices I wanted, Cursor frequently forgot them. It’s definitely worth creating a cursor rules file at the start of a project. Example: Even though we set up tests, Cursor didn’t write new tests for new features if I didn’t explicitly ask him to. I knew that rules were important but didn't create them initially, I will definitely add them in the beginning next time. 
+- Even though I gave Cursor strict instructions about the engineering practices I wanted, Cursor frequently forgot them. It’s definitely worth creating a cursor rules file at the start of a project. Example: Even though we set up tests, Cursor didn’t write new tests for new features if I didn’t explicitly asked for it. I knew that rules were important but didn't create them initially, I will definitely add them in the beginning next time. 
 
 ## Coding, coding, coding...
 

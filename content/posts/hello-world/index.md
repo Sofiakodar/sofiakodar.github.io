@@ -10,5 +10,4 @@ cover:
 
 This is my first post.
 
-![Architecture diagram](stream.png)
 

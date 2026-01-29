@@ -10,12 +10,13 @@ cover:
 
 Over the past few months I’ve been vibe‑coding several apps with Cursor. It has been the most fun I’ve had in years, I have learned a lot, and I’m really happy with my apps. I thought I’d write about it, to gather my own thoughts and in case my learnings help someone else. 
 
-My plan is three blog posts: one for each app, plus one for developing with Cursor and tips and tricks. Let’s start there. Two quick notes:  
-- These blog posts are written entirely by me (no AI), because I enjoy writing, even though most of my code is AI-generated.
+I'm planning three blog posts on this topic: one about developing with Cursor and tips and tricks (this one) and then one per app. Three quick notes before we get started:  
+- My definition of vibe-coding for this blog post is using prompts and letting the AI-tool generate the code. 
+- These blog posts are written entirely by me (no AI), because I enjoy writing. 
 - This post is just about vibe coding for personal purposes and hobbies; it does not cover a work setting – that's a topic for another post.
 
 ## Background
-My most recent role was VP of Engineering. I have a computer science degree and started my career as a junior software engineer. I moved into team lead/management early in my career and haven’t been coding for many years, even though I've been close to my engineering teams, my whole career. 
+My most recent role was VP of Engineering. I have a computer science degree and started my career as a junior software engineer. I moved into team lead/management early in my career and haven’t been coding for many years, even though I've been close to the tech and my engineering teams, my whole career. 
 
 I’m currently taking a short break and want to get into the technical details again, be hands-on and learn new things. I have lots of ideas of apps I wanted to try to implement. I felt that this was the perfect opportunity to try using AI-tools for my own coding, after encouraging my engineering teams to try them out. 
 
@@ -88,13 +89,11 @@ alt="Cursor digging a hole"
 - It truly helps if to have knowledge in how to estiablish some best engineering practices. Cursor did not suggest writing rules, creating tests or any solid engineering practices for quality. I also had to make sure that we committed early and often, Cursor frequently kept going without commiting changes. 
 
 ## Conclusion
-I think vibe-coding can be incredibly powerful (and fun) for these kinds of personal apps and solutions. It makes it super easy to build something tailored to exactly your use case, or to just have some fun. I would never have had the patience to learn all the things I needed for this and it would have taken me months to get this far without Cursor. Imagine that almost anyone could build a tailored app for exactly their personal use cases (and have fun along the way)! 
+I think vibe-coding can be incredibly powerful (and fun) for these kinds of personal apps and solutions. I would never have had the patience to learn Swift, iOS-development and all the things I needed for this and it would have taken me months to get this far without Cursor. Imagine if almost anyone could build a tailored app for exactly their personal use cases (and have fun along the way)! 
 
 One risk I can see is that it's so easy to churn out a lot of code, it can be tempting to put things into production too quickly. For business-critical tools or live apps with sensitive or customer data, I would definitely add some rigorous testing, guardrails and involve good engineers. 
 
-Personally, I want to try another tool to audit my architecture and codebase, identifying areas of improvement and technical debt. Before I actually publish any of my apps for real, I would like a skilled engineer to check my code thoroughly. 
-
-I have several ideas for improving my current apps and for building new ones, and I will definitely continue. 
+In my upcoming blog posts I will go into more detail about my apps, more tips and tricks and my next steps before they are ready for production. 
 
 I hope some of my tips and tricks are helpful if you’re curious to try it out but haven’t mustered the courage or found the time yet. Let me know if you'd like me to expand on any of my tips. 
 

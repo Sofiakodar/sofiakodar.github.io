@@ -11,6 +11,7 @@ cover:
 When I was helping my son study for an exam a week ago, I thought that a flashcard app would be helpful. 
 
 I looked at Anki and other flashcard apps that already exist but thought they were quite ugly. I wanted a more appealing app with an algorithm for spaced‑repetition learning effectively. This felt like a very small and easy project to build myself with my trusty companion, Cursor. 
+
 I decided to keep track of the changes and take some progress pics this time and this the post where I describe what I did, step by step. 
 This is just how *I* did *this* specific quick app and isn't necessarily the ultimate way of doing it. 
 

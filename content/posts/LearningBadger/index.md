@@ -59,7 +59,7 @@ I already knew that I wanted the badger to wear something purple, so I asked Cur
 >* Black = text and strong contrast.
 >* Backgrounds = light neutrals so the mascot and purple stand out.
 
-I added another level—Subjects—before decks. For example, a Subject called Math could contain decks for Algebra, Geometry, etc.
+I added another level —Subjects— before decks. For example, a Subject called Math could contain decks for Algebra, Geometry, etc. I realized that there would be a lot of decks very fast and it would be difficult to find the right one otherwise (I had already created a bunch).
 I also made a few minor tweaks to buttons and lists to keep everything more coherent.
 
 {{< figure src="2026-01-31_newview_16.12.13.png" caption="First view" >}}
@@ -69,19 +69,21 @@ I also made a few minor tweaks to buttons and lists to keep everything more cohe
 
 I first made a small attempt to figure out how to animate the badger, but that quickly felt too complicated for the amount of effort I was ready to invest in the app at that time.
 
-I asked Chatty to generate a mascot and a bunch of images for my app: 
+I asked Chatty to generate a mascot and a bunch of images for my app (the last paragraph is something Chatty has suggested that I added to image generation for my blog posts before): 
 
 >*Can you create a character for me that we can use for several images? The goal is a flat vector mascot that can be used in an MacOS and iOS app. 
->It's a learning badger. The badger is cute, smart and friendly. It's non-gendered, and is wearing a light purple hoodie, and very baggy grey-black jeans and sneakers. Cozy, rounded character, proportions typical of Ghibli films. Illustrated anime style only, not photorealistic, not realistic, not photographic, no live-action appearance, no realistic skin texture, no camera lens effects. 
+>It's a learning badger. The badger is cute, smart and friendly. It's non-gendered, and is wearing a purple hoodie, and very baggy grey-black jeans and sneakers. Cozy, rounded character, proportions typical of Ghibli films. 
+
+>Illustrated anime style only, not photorealistic, not realistic, not photographic, no live-action appearance, no realistic skin texture, no camera lens effects. 
 >Storybook atmosphere. Clean anatomy, no extra limbs.*
 
-{{< figure src="badger_thumbsup.png" caption="Badger" >}}
+{{< figure src="badger_thumbsup.png" caption="Badger mascot" >}}
 
 
 Then I could just create a few different ones easily: 
 >*Could you create an image of this character looking happy and determined, surrounded by mathematical symbols?*
 
-{{< figure src="badger_math.png" caption="Badger" >}}
+{{< figure src="badger_math.png" caption="Math badger" >}}
 
 
 ### Adding the badger to the app 
@@ -94,7 +96,7 @@ I then asked Cursor to add these images to the corresponding topics and places, 
 >- *For statistics badger_trophy.png*
 >- *For end of card session badger_celebrating.png*
 
-{{< figure src="2026-01-31_with_badger_16.48.44.png" caption="App with badger, in desperate need of new background color" >}}
+{{< figure src="2026-01-31_with_badger_16.48.44.png" caption="App with badger, in desperate need of new background colors" >}}
 
 
 ### Importing and exporting
@@ -102,7 +104,7 @@ I then asked Cursor to add these images to the corresponding topics and places, 
 
 One thing that has always been important to me in all my apps is the ability to easily import and export data. I know I might break something when I continue working on the app and drastically change the data, so I want to make sure I don’t lose anything.
 
-In this case I also knew I wanted to be able to share flashcards/decks between users and devices, and I definitely didn’t want to sit and manually create each card on a phone or iPad. I wanted a simple solution, and a CSV file seemed like a very easy way to add words and questions. I later added a way to export a deck with images as well.
+In this case I also knew I wanted to be able to share flashcards/decks between users and devices. I definitely didn’t want to sit and manually create each card on a phone or iPad, but wanted to at least easily share between my computer and iOS devices. I wanted a simple solution, and a CSV file seemed like a very easy way to add words and questions. I later added a way to export a deck with images as well.
 
 {{< figure src="2026-01-31_exporting_importing.png" caption="Discussing import/export with cursor" >}}
 
@@ -120,7 +122,7 @@ I quickly searched around myself and found that the app needed a Launch Screen t
 ## Day 3 – Feedback and testing
 Day three, I started testing it for real on my iPad, not just in the simulator.
 
-I added a new mode—Read—for simply going through the flashcards without affecting the stats.
+I added a new mode —Read— for simply going through the flashcards without affecting the stats.
 
 I fought with the app icon; it didn’t display correctly on iOS, though it worked fine on macOS. This was very annoying, and even after reading up on how to create the icon and discussing it with Cursor, it remained gray.
 
@@ -167,8 +169,9 @@ The next feature request from my son is to add a timer, allowing users to race t
 The app works fine now and can be used as it is. On my feature list I have a few things for future improvements: 
 - Quiz with timer. 
 - Achievements and clearer and more fun goals. 
-- Better sized images for iPad vs iPhone. 
-- A new badger? I think the badger is a little bit too childish, and am thinking of making the mascot more suitable for teens, maybe with a more action anime style badger instead. 
+- Fix the app icon for iOS, still really ugly. 
+- Better sized images for iPad vs iPhone in the learning view. 
+- A new badger? I think the badger is a little bit too childish, and want to make the mascot more suitable for teens, maybe with a more action anime style badger instead. 
 - Possibly make it easier to use for more advanced math, not sure how yet though. 
 
 I will of course add lots of decks and cards. Most of all I want my users to try it out more in real life to find out what needs to be improved or tweaked. 

@@ -11,8 +11,8 @@ cover:
 When I was helping my son study for an exam a week ago, I thought that a flashcard app would be helpful. 
 
 I looked at Anki and other flashcard apps that already exist but thought they were quite ugly. I wanted a more appealing app with an algorithm for spaced‑repetition learning effectively. This felt like a very small and easy project to build myself with my trusty companion, Cursor. 
-This is a blog post where I describe what I did, step by step. 
-This is just how *I* did this specific quick app and isn't necessarily the ultimate way of doing it. 
+I decided to keep track of the changes and take some progress pics this time and this the post where I describe what I did, step by step. 
+This is just how *I* did *this* specific quick app and isn't necessarily the ultimate way of doing it. 
 
 ## Day 1 – idea
 
@@ -89,7 +89,7 @@ I then asked Cursor to add these images to the corresponding topics and places, 
 >- *Matte (badger_math.png)* 
 >- *Språk (badger_languages.png)*
 >- *NO (badger_tech.png)*
->- *For custom/user created topics let use badger_books.png
+>- *For custom/user created topics let use badger_books.png*
 >- *For statistics badger_trophy.png*
 >- *For end of card session badger_celebrating.png*
 
@@ -170,10 +170,12 @@ The app works fine now and can be used as it is. On my feature list I have a few
 - A new badger? I think the badger is a little bit too childish, and am thinking of making the mascot more suitable for teens, maybe with a more action anime style badger instead. 
 - Possibly make it easier to use for more advanced math, not sure how yet though. 
 
-And of course, adding lots of decks and cards. But first of all I want my users to try it out more in real life to find out what needs to be improved or tweaked. 
+I will of course add lots of decks and cards. Most of all I want my users to try it out more in real life to find out what needs to be improved or tweaked. 
+
+For a real published version, this app will of course be open source under the same licence as Anki, since I asked Cursor to use that as inspiration. 
 
 
-{{< figure src="ideas.png" caption="Lots of ideas" >}}
+{{< figure src="ideas.png" caption="Ideas for future versions" >}}
 
 
 

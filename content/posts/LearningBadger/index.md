@@ -1,6 +1,6 @@
 ---
 title: "Building a learning app"
-date: 2026-02-03
+date: 2026-02-08
 draft: false
 cover:
   image: "laptopcoding.png"

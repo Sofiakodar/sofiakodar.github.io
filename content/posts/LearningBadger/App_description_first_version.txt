@@ -1,0 +1,152 @@
+# LearningBadger is an app to build Flashcards and learn things quickly. 
+
+The app is a MacOS and iOS Native app built in Swift with SwiftUI, with minimum dependencies and built with good engineering practices by a very senior and competent engineer.  
+- Built for iOS 26 and later. 
+- Built for MacOS 15 and later. 
+- Good testing strategy and unit tests. 
+The cards are saved in a database, that is stored in iCloud so it can be used between iPhone and MacOS. 
+
+The main purpose for the MacOS app is to create and edit cards. The main purpose for the iOS app is for learning. But both should have all features. 
+
+The app uses spaced repetition for learning things well. 
+
+
+# There are three main views: Learn. Create cards. Statistics. 
+
+## Flashcards 
+
+### There are three different kinds of Flashcards. All flashcards can have three parts, the question, the answer and an explanation. All cards also have a topic (for example French, or Algebra). 
+1. A question: word or sentence, and an answer. The pair can be reversed or not. 
+2. A mathematical problem. An explanation. A correct answer. 
+3. An image, and text as an answer. 
+The flashcard also has a topic. 
+
+## Statistics. 
+Here the user can see: 
+* How many cards they have reviewed in each topic. 
+* How many days they have practiced in total, and per topic. 
+* Their streak: how many days in a row they have practiced. 
+
+Later on we will add some achievements here as well. 
+
+
+## Learn
+When the user clicks on Learn, they first need to choose a topic. 
+
+### Choose topic
+The user is presented with the topics that are available (for example French, Algebra). 
+The user can choose how many cards they want to practice: 10 cards, 25 cards or 50 cards. 
+When the user has chosen a topic the app starts presenting flashcards, until the limit is up. 
+
+After the right amount of flashcards, the user is presented with statistics for this session: how many correct, failed, and the average difficulty rating. The user can then choose to click "Learn again" and is sent back to the Choose topic page. 
+
+
+### Viewing a Flashcard. 
+The question is shown. The user can then click on "Show answer" and the answer is shown, underneath the questions so both are visible at the same time. The user can click on "Explanation" and the explanation is shown. The Explanation is shown underneath both the question and answer. At the bottom there are four feedback buttons to log the difficulty level. When the user has clicked on a feedback button the next cards is shown. 
+
+#### Feedback buttons. There are four buttons: Fail. Difficult. Good. Easy. 
+Failed = 0
+Difficult  = 1
+Good  = 2
+Easy  = 3
+
+
+###  Spaced repetition. Cards should be shown with the right intervalls to support optimal learning. 
+Initial learning: day 0. 
+First review: 1 day
+Second review: 3–4 days
+Third review: 7–10 days
+Fourth review: 3–4 weeks
+Later reviews: 2–3 months → 6 months → yearly
+
+
+Each card has the following variables to adjust repetition:
+stability        // how long the memory lasts (in days)
+difficulty       // intrinsic difficulty of the item (0–1 or 1–10)
+last_review      // timestamp
+next_review      // timestamp
+topic            // name of topic
+lapses           // number of failures
+repetitions      // number of successful recalls
+
+
+First time a cards is shown: 
+stability   = 1.0        // ~1 day
+difficulty  = 0.3–0.5    // medium default
+next_review = now + 1 day
+
+
+#### Scheduling of cards
+
+#### Successful recall (Hard / Good / Easy)
+Update stability multiplicatively (expanding intervals):
+  Hard  -> 1.2
+  Good  -> 1.8
+  Easy  -> 2.5
+stability = stability * multiplier * (1 - difficulty)
+
+Then schedule: next_review = now + stability days
+
+#### On failure
+stability  = max(1.0, stability * 0.5)
+difficulty = min(1.0, difficulty + 0.1)
+next_review = now + 1 day
+lapses += 1
+
+
+#### Difficulty adjustment
+Difficulty should drift slowly based on outcomes:
+if rating == Easy:
+    difficulty -= 0.05
+if rating == Hard:
+    difficulty += 0.05
+
+
+#### Spacing 
+
+Aim for ~85–90% success rate
+
+If global recall is too high → increase multipliers slightly. Too low → decrease them. 
+
+Randomize intervals ±5–10% to avoid review clustering.
+
+Short intervals (10m → 1d) before entering long-term scheduling.
+
+Intervals should grow when recall succeeds, shrink when it fails, and target ~90% recall.
+
+
+## Create cards
+In this view the user can create new cards and edit old ones. 
+The user can see a list of all the cards and click on an edit button to edit an existing card. 
+The user can click on a "New" button to create a new card. 
+The user can create a new topic by clicking on "New topic" -> that will be a text field where they can name the topic. 
+
+### Creating a card view: 
+Question -> text field
+Answer -> text field
+Explanation -> text field. 
+Image -> upload button for a small image (jpg, gif or png) 
+Reverse -> Checkbox 
+Topic -> dropdown with the available topics 
+
+If the card is reverse, two cards are created, one where the answer is the question etc. 
+
+Cards can contain mathematical equations, so it needs to support mathematical symbols etc. 
+All text fields (answer, question, explanation) can be several rows of text. 
+
+
+### A card can contain any of the following combinations: 
+Question + Answer + Explanation
+Image + Answer + Explanation
+Question + Image + Answer + Explanation 
+
+It cannot contain only an answer and/or explanation. It needs an image or question. 
+
+### Upload cards 
+The user can upload a csv-file with text to create cards, with question + answer. 
+The csv has the format: question; answer; explanation; reversed (yes/no). 
+These cards won't contain an image, that can be added later in the "Edit card" view in the app. 
+
+
+
+

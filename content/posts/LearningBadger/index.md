@@ -12,16 +12,19 @@ When I was helping my son study for an exam a week ago, I thought that a flashca
 
 I looked at Anki and other flashcard apps that already exist but thought they were quite ugly. I wanted a more appealing app with an algorithm for spaced‑repetition learning effectively. This felt like a very small and easy project to build myself with my trusty companion, Cursor. 
 
-I decided to keep track of the changes and take some progress pics this time and this the post where I describe what I did, step by step. 
+I decided to keep track of the changes and take some progress pics this time and this is the post where I describe what I did, step by step. 
 This is just how *I* did *this* specific quick app and isn't necessarily the ultimate way of doing it. 
 
 ## Day 1 – idea
 
-I very quickly read through the basics of an algorithm for spaced repetition and wrote a quick description of my app. At 15:49 I gave Cursor the description and asked for feedback. (If you're curious, you can find it [here](App_description_first_version.txt))
+I very quickly read through the basics of an algorithm for spaced repetition and wrote a quick description of my app. At 15:49 I gave Cursor the description and asked for feedback. (If you're curious, you can find the first rough draft [here](App_description_first_version.txt).)
 
-Fun fact: Cursor was a bit confused regarding the current iOS version (as of writing this blog post the latest version is 26.2.1, since January 26, 2026), iOS 18 was released in 2024.
->Platform versions. You mention iOS 26 and macOS 15. As of today, the current versions are iOS 18 and macOS 15 (Sequoia). Did you mean iOS 18 (or 17), or a future version? Worth stating explicitly.
+### Version confusion
+One thing worth watching out for is that Cursor often targets an older SDK and can use deprecated features when generating code. In this example Cursor was wrong about the current iOS version (as of writing this blog post the latest version is 26.2.1, since January 26, 2026). Cursor's suggestion iOS 18 was released in 2024.
 
+{{< figure src="Cursor_versions.png" >}}
+
+### Algorithms
 I asked Cursor for feedback on how to implement the correct algorithms for spaced repetition. Cursor quickly got the Anki algoritm (open source) and gave some suggestions for clarifications in my description.  
 
 {{< figure src="2026-01-30_Anki_Algorithm.png" caption="Discussing the algorithm for spaced repetition" >}}
@@ -37,6 +40,8 @@ Exactly one hour later (16:49), I had set up the Xcode project, started a Git re
 - View statistics after every session, including streaks and total stats.
 
 {{< figure src="20260131_11.47.44.png" caption="One hour in - very first version" >}}
+
+{{< figure src="newcard.png" caption="One hour in - creating cards" >}}
 
 One more hour (two hours of implementation in total), the app also had:
 - Import function for a CSV or Excel with the data for the flashcards in the format of question; answer; explanation.
@@ -62,7 +67,7 @@ I already knew that I wanted the badger to wear something purple, so I asked Cur
 I added another level —Subjects— before decks. For example, a Subject called Math could contain decks for Algebra, Geometry, etc. I realized that there would be a lot of decks very fast and it would be difficult to find the right one otherwise (I had already created a bunch).
 I also made a few minor tweaks to buttons and lists to keep everything more coherent.
 
-{{< figure src="2026-01-31_newview_16.12.13.png" caption="First view" >}}
+{{< figure src="2026-01-31_newview_16.12.13.png" caption="Learning view" >}}
 
 
 ### Making of the learning badger 
@@ -71,10 +76,10 @@ I first made a small attempt to figure out how to animate the badger, but that q
 
 I asked Chatty to generate a mascot and a bunch of images for my app (the last paragraph is something Chatty has suggested that I added to image generation for my blog posts before): 
 
->*Can you create a character for me that we can use for several images? The goal is a flat vector mascot that can be used in an MacOS and iOS app. 
->It's a learning badger. The badger is cute, smart and friendly. It's non-gendered, and is wearing a purple hoodie, and very baggy grey-black jeans and sneakers. Cozy, rounded character, proportions typical of Ghibli films. 
+>*Can you create a character for me that we can use for several images? The goal is a flat vector mascot that can be used in an MacOS and iOS app.* 
+>*It's a learning badger. The badger is cute, smart and friendly. It's non-gendered, and is wearing a purple hoodie, and very baggy grey-black jeans and sneakers. Cozy, rounded character.*
 
->Illustrated anime style only, not photorealistic, not realistic, not photographic, no live-action appearance, no realistic skin texture, no camera lens effects. 
+>*Illustrated anime style only, not photorealistic, not realistic, not photographic, no live-action appearance, no realistic skin texture, no camera lens effects. 
 >Storybook atmosphere. Clean anatomy, no extra limbs.*
 
 {{< figure src="badger_thumbsup.png" caption="Badger mascot" >}}
@@ -159,11 +164,10 @@ The next feature request from my son is to add a timer, allowing users to race t
 
 
 
-### Total time so far: 
-- 2026-01-30 (Thu) 15 commits, roughly between 15:49 and 19:20 
-- 2026-01-31 (Fri) 37 commits, roughly between 15:00 and 19:00
+### Total time spent so far is ~ 9,5–10 hours: 
+- 2026-01-30 (Thu) 15 commits, between 15:49 and 19:20 with dinner break
+- 2026-01-31 (Fri) 37 commits, between 15:00 and 19:00 with dinner break
 - 2026-02-01 (Sat) 12 commits, 09:39-12:23 and then adding sound effects at 15:33
-
 
 ## Next steps
 The app works fine now and can be used as it is. On my feature list I have a few things for future improvements: 

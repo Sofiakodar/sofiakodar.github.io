@@ -8,4 +8,11 @@ theme = "PaperMod"
   ShowReadingTime = true
   ShowCodeCopyButtons = true
   disableSpecial1stPost = true
+
+[params.author]
+  name = "Sofia"
   
+[[menu.main]]
+  name = "Tags"
+  url = "/tags/"
+  weight = 10

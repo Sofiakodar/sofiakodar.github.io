@@ -1,7 +1,8 @@
 ---
 title: "Building a learning app"
-date: 2026-02-08
+date: 2026-02-09
 draft: false
+tags: ["vibecoding", "cursor"]
 cover:
   image: "laptopcoding.png"
   alt: "Coding, laptop"

@@ -1,7 +1,8 @@
 ---
 title: "My adventures in vibe-coding (1/3)"
 date: 2026-01-28
-draft: false
+draft: 
+tags: ["vibecoding", "cursor"]
 cover:
   image: "vibing.png"
   alt: "Vibe coding"

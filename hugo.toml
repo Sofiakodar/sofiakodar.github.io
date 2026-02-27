@@ -8,10 +8,8 @@ theme = "PaperMod"
   ShowReadingTime = true
   ShowCodeCopyButtons = true
   disableSpecial1stPost = true
+  author = "Sofia"
 
-[params.author]
-  name = "Sofia"
-  
 [[menu.main]]
   name = "Tags"
   url = "/tags/"

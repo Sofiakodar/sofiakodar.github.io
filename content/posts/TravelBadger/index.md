@@ -10,7 +10,7 @@ cover:
 ---
 A friend of mine had an app request for daily commuting to/from work. The use case is simple, you're getting ready to leave for work/home and want to know when the next train/bus leaves and if you should hurry or not. I implemented this today in a few hours with Cursor and thought I'd write about it. 
 
-## Specification
+## App specification
 - A simple iOS app where you can see when the next train/bus leaves, "In X minutes". 
 - Search for a route and save it, incuding choosing different travel options if available. 
 - Swipe/click on a route and see the next departure. 

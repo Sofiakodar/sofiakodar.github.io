@@ -96,7 +96,7 @@ I spent maybe 20 minutes in Figma this morning to create some wireframes. Then m
 According to my git history the first commit was at 11:38 today and last commit 18:17. I've had some breaks for lunch and other stuff in between, so I would guess I've spent around 5 hours vibe coding this app. So total around 6 hours. First two phases were finished in an hour. Most of the time was spent struggling with the edge case challenges described above and filtering out deviations correctly. 
 
 ### What was needed
-- Cursor Pro license. I pay 20$ (~182 SEK) a month for my personal license. 
+- Cursor Pro license. I pay 20$ (~182 SEK) a month for my personal license (almost out of tokens again so will probably upgrade soon). 
 - Apple Developer account. 99$ (~904 SEK) a year for an individual license. 
 - Xcode for building for iOS (free)
 - Figma free limited account (could have used other free options)

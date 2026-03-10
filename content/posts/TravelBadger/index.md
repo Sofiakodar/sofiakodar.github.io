@@ -69,6 +69,10 @@ alt="Settings"
 >}}
 
 
+### Why this app?
+What is the main difference from the SL app, you might wonder? In the SL app I need to search for my trip to see the next departures. This app presents it at a glance. This app knows where you are going (you saved your route and it knows from your location which direction you're going). It also only shows the deviations relevant to you, you don't need to scroll through escalator/entreance deviations you don't care about. 
+And mainly, it was a fun thing to build for myself and my friend. 
+
 ## Challenges
 The main challenge was the API provided by SL. There is a limit, so you can only get 3 journeys per call. In some cases this meant that the app didn't get relevant departures, even though they existed in a few minutes. 
 

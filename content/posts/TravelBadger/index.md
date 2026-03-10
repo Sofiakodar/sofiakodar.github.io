@@ -88,10 +88,16 @@ alt="Sad Cursor"
 >}}
 
 ### Time spent
-I spent maybe 30 minutes in Figma this morning to create some wireframes. Then maybe 30 minutes to write the specification and iterate on the plan with Cursor. 
+I spent maybe 20 minutes in Figma this morning to create some wireframes. Then maybe 30 minutes to write the specification and iterate on the plan with Cursor. 
 
 According to my git history the first commit was at 11:38 today and last commit 18:17. I've had some breaks for lunch and other stuff in between, so I would guess I've spent around 5 hours vibe coding this app. So total around 6 hours. First two phases were finished in an hour. Most of the time was spent struggling with the edge case challenges described above and filtering out deviations correctly. 
 
+### What was needed
+- Cursor Pro license. I pay 20$ (~182 SEK) a month for my personal license. 
+- Apple Developer account. 99$ (~904 SEK) a year for an individual license. 
+- Xcode for building for iOS (free)
+- Figma free limited account (could have used other free options)
+- SL:s free API (thank you SL!)
 
 
 

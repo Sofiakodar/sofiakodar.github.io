@@ -97,7 +97,7 @@ According to my git history the first commit was at 11:38 today and last commit 
 - Apple Developer account. 99$ (~904 SEK) a year for an individual license. 
 - Xcode for building for iOS (free)
 - Figma free limited account (could have used other free options)
-- SL:s free API (thank you SL!)
+- Trafiklab:s free API (thank you Trafiklab and SL!)
 
 
 

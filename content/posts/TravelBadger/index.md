@@ -43,7 +43,6 @@ I wrote an app description md-file with what I wanted. Target: iOS 26, using nat
 
 {{< figure src="implementation_plan.png" 
 alt="Implementation plan"
-link="implementation_plan.png"
 >}}
 
 In just a few minutes, we had the XCode-project up and running. I remembered to ask Cursor to add the LaunchScreen (I've learned now that this is necessary to get the app in Fullscreen) and soon we had a first version, where I could search for a route and save it. 
@@ -97,7 +96,7 @@ According to my git history the first commit was at 11:38 today and last commit 
 - Apple Developer account. 99$ (~904 SEK) a year for an individual license. 
 - Xcode for building for iOS (free)
 - Figma free limited account (could have used other free options)
-- Trafiklab:s free API (thank you Trafiklab and SL!)
+- SL:s free API (thank you Trafiklab and SL!)
 
 
 

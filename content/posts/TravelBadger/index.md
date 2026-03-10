@@ -125,7 +125,7 @@ Idéas I have for the next version are:
 - An iOS-widget would be great.
 - An Apple watch app would be useful.  
 
-There are other APIs that can be used, ResRobot and Trafiklab, I haven't investigated them yet, since they are for other cities as well and I was only interested i Stockholm/SL data. 
+There are other APIs that can be used, ResRobot and Trafiklab, I haven't investigated them yet, since they are for other cities as well and I was only interested i SL data. 
 
 I will update this blog post when I've gotten some friends to try it out and have created the next version.
 

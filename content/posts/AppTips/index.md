@@ -137,6 +137,6 @@ I always enjoy getting tips from friends about great apps or services they use, 
 
 
 ### What have I missed?
-Do you have any tips, maybe the perfect app that I would like? Please let me know!
+Do you have any app recommendations I should try? Tell me about your favorites!
 
 *Most of these apps have an Android app as well, but since I don't use any Android devices I haven't checked.*

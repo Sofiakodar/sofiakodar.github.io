@@ -13,7 +13,7 @@ cover:
 I always enjoy getting tips from friends about great apps or services they use, so this post is about what apps I really like and use. 
 
 
-## My favorite productivity apps: 
+### My favorite productivity apps: 
 
 <img src="obsidian.jpg" alt="Description" width="80" style="float: left; margin: 0 1em 1em 0;" />
 
@@ -35,7 +35,7 @@ I always enjoy getting tips from friends about great apps or services they use, 
 
 **Apple Podcast** (MacOS, iOS) (free)<br> My podcast app of choice. I usually listen to podcasts when commuting and get through quite a few every week. Podcasts is easy to use and I save specific episodes I want to listen to later so I have a long queue with interesting ones. I very often go into transcripts while listening and copy interesting parts to reference/check later. 
 
-## AI tools 
+### AI tools 
 
 <img src="lumo.jpg" alt="Description" width="80" style="float: left; margin: 0 1em 1em 0;" />
 
@@ -55,7 +55,7 @@ I always enjoy getting tips from friends about great apps or services they use, 
 **Claude** (Web, MacOs, iOS) (free, subscription)<br> I'm trying out Claude for some things but I’m not on the hype train (yet?). I'm only trying out the free version, so it's quite limited.
 <br><br>
 
-## Web 
+### Web 
 
 <img src="brave.jpg" alt="Description" width="80" style="float: left; margin: 0 1em 1em 0;" />
 <img src="firefox.jpg" alt="Description" width="80" style="float: right; margin: 0 1em 1em 0;" />
@@ -75,7 +75,7 @@ I always enjoy getting tips from friends about great apps or services they use, 
 **1Password** (Web, iOS, MacOS) (subscription) <br>Everyone should have some kind of password manager, I have always been very careful to use unique passwords everywhere. I used LastPass earlier but after a breach, I switched to 1password (very easy to switch). I have a lot of logins and this makes it bearable. Easy to use and easy to have a shared vault with your partner/friend as well for shared logins. 
 
 
-## Communication
+### Communication
 
 <img src="signal.jpg" alt="Description" width="80" style="float: left; margin: 0 1em 1em 0;" />
 
@@ -86,7 +86,7 @@ I always enjoy getting tips from friends about great apps or services they use, 
 **Telegram** (MacOS, iOS) (free) <br>Also easy to use. I moved most of my conversations over to Signal since it’s even more privacy centered, and because the founder of Telegram seems a bit… odd. 
 
 
-## Fun and hobby
+### Fun and hobby
 
 <img src="storytel.jpg" alt="Description" width="80" style="float: left; margin: 0 1em 1em 0;" />
 
@@ -113,7 +113,7 @@ I always enjoy getting tips from friends about great apps or services they use, 
 **Spotify** (MacOS, iOS) (subscription) <br>Everyone needs music. Also works well on my Sonos speakers at home. 
 <br><br>
 
-## Photography 
+### Photography 
 
 <img src="pixelmator.jpg" alt="Description" width="80" style="float: left; margin: 0 1em 1em 0;" />
 
@@ -123,7 +123,7 @@ I always enjoy getting tips from friends about great apps or services they use, 
 
 **Lightroom** (MacOS) (subscription) <br>Sadly a yearly Adobe subscription and no app purchase but it’s amazing for editing photos. I take a lot of pictures and create photo books and prints and this is the best tool I’ve tried for adjusting white balance, colors and exposure and the denoise feature for removing ISO noise is amazing. I only use it for a few weeks per year when I go through all my photos and I have all my photos locally and am completely uninterested in using their cloud, so I’m quite annoyed that I have to pay a yearly subscription that includes cloud storage. 
 
-## My own apps of course
+### My own apps of course
 
 <img src="learning.png" alt="Description" width="80" style="float: left; margin: 0 1em 1em 0;" />
 

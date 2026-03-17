@@ -3,6 +3,9 @@ title = "sofiakodar.github.io"
 
 theme = "PaperMod"
 
+[markup.goldmark.renderer]
+  unsafe = true
+  
 [params]
   defaultTheme = "auto"
   ShowReadingTime = true

@@ -127,12 +127,12 @@ I always enjoy getting tips from friends about great apps or services they use, 
 
 <img src="learning.png" alt="Description" width="80" style="float: left; margin: 0 1em 1em 0;" />
 
-**LearningBadger** <br> I've written about this app <a href="https://sofiakodar.github.io/posts/learningbadger/">here</a>. Only available in Testflight for my betatesters so far. 
+**LearningBadger** <br> I've written about this app <a href="https://sofiakodar.github.io/posts/learningbadger/">here</a>. Only available in Testflight for my beta testers so far. 
 <br><br>
 
 <img src="travel.png" alt="Description" width="80" style="float: left; margin: 0 1em 1em 0;" />
 
-**TravelBadger** <br> I've written about this app <a href="https://sofiakodar.github.io/posts/travelbadger/">here</a>. Only available in Testflight for my betatesters so far. 
+**TravelBadger** <br> I've written about this app <a href="https://sofiakodar.github.io/posts/travelbadger/">here</a>. Only available in Testflight for my beta testers so far. 
 <br><br>
 
 

@@ -86,15 +86,15 @@ If you care, assume good intent and are curious to find out the other person's v
 
 Some links worth reading: 
 
-- <a href="https://hbr.org/2019/05/what-good-feedback-really-looks-like">What good feedback really looks like</a> (HBR, subscription needed) 
-- <a href="https://hbr.org/2019/03/the-feedback-fallacy"> The feedback fallacy </a> (HBR, subscription needed) 
-- <a href="https://hbr.org/2025/01/5-mistakes-managers-make-when-giving-negative-feedback">5 mistakes managers make when giving negative feedback</a> (HBR, subscription)
 - <a href="https://estherderby.com/peer-to-peer-feedback-2/"> Peer to Peer feedback</a> (Esther Derby)
 - <a href="https://estherderby.com/feedback-traps/">Feedback traps</a> (Esther Derby)
 - <a href="https://estherderby.com/reasons-managers-avoid-feedback/">Reasons managers avoid feedback</a> (Esther Derby)
 - <a href="https://estherderby.com/the-appreciation-gap/">The Appreciation gap</a> (Esther Derby)
 - <a href="https://www.ccl.org/articles/leading-effectively-articles/closing-the-gap-between-intent-vs-impact-sbii">Use Situation-Behavior-Impact to Understand Intent
 <a href="https://www.ccl.org/articles/leading-effectively-articles/review-time-how-to-give-different-types-of-feedback/>">How to Give Feedback Most Effectively</a>
+- <a href="https://hbr.org/2019/05/what-good-feedback-really-looks-like">What good feedback really looks like</a> (HBR, subscription needed) 
+- <a href="https://hbr.org/2019/03/the-feedback-fallacy"> The feedback fallacy </a> (HBR, subscription needed) 
+- <a href="https://hbr.org/2025/01/5-mistakes-managers-make-when-giving-negative-feedback">5 mistakes managers make when giving negative feedback</a> (HBR, subscription)
 - <a href="https://ellnestam.wordpress.com/2009/04/14/how-i-learned-about-feedback/">Giving feedback</a> 
 
 *As always this blog post is manually written by me, without AI, so any grammatical or spelling errors are my own.*

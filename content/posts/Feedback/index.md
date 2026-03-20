@@ -70,7 +70,6 @@ If it's constructive feedback and you're *not* their team lead or manager: Do yo
 <br>If you are the person’s manager and the behaviour is causing consequences, it’s *always* your responsibility. Constructive feedback should always be given in private. Don’t forget to give feedback to your manager as well, most managers get too little feedback. 
 
 {{< figure src="team_working.png" 
-caption="Give feedback instead of talking behind someone's back" 
 alt="Team" >}}
 
 

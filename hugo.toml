@@ -17,3 +17,8 @@ theme = "PaperMod"
   name = "Tags"
   url = "/tags/"
   weight = 10
+
+[[menu.main]]
+  name = "RSS"
+  url = "/index.xml"
+  weight = 20

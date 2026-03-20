@@ -187,5 +187,5 @@ For a real published version, this app will of course be open source under the s
 {{< figure src="ideas.png" caption="Ideas for future versions" >}}
 
 
-
+*As always this blog post is manually written by me, without AI, so any grammatical or spelling errors are my own.*
 

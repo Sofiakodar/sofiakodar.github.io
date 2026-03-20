@@ -127,6 +127,6 @@ Idéas I have for the next version are:
 
 There are other APIs that can be used, ResRobot and Trafiklab, I haven't investigated them yet, since they are for other cities as well and I was only interested i SL data. 
 
-I will update this blog post when I've gotten some friends to try it out and have created the next version.
+**March 20th, edit: The app now has Live Activity and a widget as well! I will write more about this in a second blog post soon.** 
 
-*As always this blog post is manually written by me, without AI, so any grammatical or spelling errors are all mine.*
+*As always this blog post is manually written by me, without AI, so any grammatical or spelling errors are my own.*

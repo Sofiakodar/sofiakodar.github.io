@@ -57,7 +57,7 @@ alt="The famous post" >}}
 caption="An example" 
 alt="An example" >}}
 
-### "Letting the agent vent" (Unsure of the name of the talk) ###
+### "Continuous learning" aka Letting the agent vent (Unsure of the name of the talk) ###
 In an impromptu talk (the planned speaker couldn’t make it) Benjamin from Lovable talked about how they set up so their agents could complain about environmental issues that made it impossible for them to fulfill users prompts and how that created a great feedback loop that made it possible for them to find issues they didn’t know about. Great idea and solution. 
 
 ### My takeaways: ###

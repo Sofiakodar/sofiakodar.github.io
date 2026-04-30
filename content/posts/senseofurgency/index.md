@@ -8,12 +8,7 @@ cover:
   alt: "Speed vs stability"
   relative: true
 
-hiddenInHomeList: true
-build:
-  list: never
-  render: always
-robotsNoIndex: true
-slug: "speed-7f3k2x" 
+hiddenInHomeList: false
 
 ---
 

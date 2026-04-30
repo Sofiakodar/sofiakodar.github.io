@@ -101,7 +101,7 @@ But lots of companies have products that are not super exciting for an engineer,
 If your main reason for being at a company are the benefits, what you're learning, and your day-to-day experience, you might not be super excited about new customers, care about beating the competitors, or get super motivated to release features that you know will mean a headache later on, even if that excites your customers.
 
 ## Why speed and stability need to be shared responsibilities ## 
-This conflict is not new but AI exposes it even further right now. Engineers have a toolkit to build new features in hours instead of months. But it doesn’t reduce cognitive load, eliminate complexity, or guarantee maintainable code. Some teams are slow because they haven’t learned to say no, others are fast because they built systems that actually last.
+This conflict I describe in this post is not new but AI exposes it even further right now. Engineers have a toolkit to build new features in hours instead of months. But it doesn’t reduce cognitive load, eliminate complexity, or guarantee maintainable code. Some teams are slow because they haven’t learned to say no, others are fast because they built systems that actually last.
 
 For product managers: Stop treating engineering as a "delivery function." Start treating engineers as a strategic partners in ownership. Talk early and often about what assumptions they’re making, where risks lie, and how future maintenance could break things, before you ship anything. Have real conversations and include them in customer discussions and let them see their impact clearer. Do they even get the positive feedback from users/customers? Help them understand the users and customers and get their appreciation. 
 
@@ -113,4 +113,4 @@ For engineering managers: Stop acting as a shield that absorbs pressure from Pro
 We need to stop viewing speed and stability as competing priorities and instead start treating them as shared responsibilities, so we can start collaborating on building something great together.
 
 
-
+<br><br>*This blogpost is written by me, and all opinions and spelling errors are my own.*

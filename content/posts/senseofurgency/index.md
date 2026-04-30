@@ -109,7 +109,7 @@ This conflict I describe in this post is not new but AI exposes it even further 
 - Have real conversations and include them in customer discussions and let them see their impact clearer. Do they even get the positive feedback from users/customers? Help them understand the users and customers and get their appreciation. 
 
 **Company leaders:** 
-- Don't expect every employee to care about the company as much as you do. 
+- Don't expect every employee to care about the company as much as you do. Try to understand why they like working there and what could be improved.  
 - Stop rewarding speed metrics alone and reward stability too, not just profit margins or customer acquisition.
 - Celebrate teams that continuously ship without breaking anything. Let engineers see that their decisions matter long after launch. 
 - Some teams aren’t building fast because they lack urgency, maintainability, or are drowning in tech debt. Other teams aren’t building fast because they don’t feel included in decisions and lack motivation. And some are building fast because they can combine speed with stability and can see their impact. Try to understand what is true for your teams. 

@@ -1,6 +1,6 @@
 ---
 title: "Speed vs stability: the divide between product and engineering"
-date: 2026-04-29
+date: 2026-04-30
 draft: false
 tags: ["leadership", "vibecoding", "product", "engineering"]
 cover:

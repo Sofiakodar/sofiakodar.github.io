@@ -20,7 +20,7 @@ slug: "speed-7f3k2x"
 ## The urgency gap ##
 Over the last few months, I’ve sat across from product leaders and engineers in different companies and they all told me the same story: a frustration from product managers and the leadship team about lack of urgency in dev teams and whether they truly care about the company’s success.
 
-Product leaders and managers are super eager to deliver new features and to fulfill commitments to customers, but feel that the development teams are slow and don’t care if a feature get’s pushed. *“Why don’t the engineers feel a sense of urgency? They don’t care if a feature gets delayed for weeks!” “It feels like they don’t care about the success of the company!”*. 
+Product leaders and managers are super eager to deliver new features and to fulfill commitments to customers, but feel that the development teams are slow and don’t care if a feature gets pushed. *“Why don’t the engineers feel a sense of urgency? They don’t care if a feature gets delayed for weeks!” “It feels like they don’t care about the success of the company!”*. 
 
 AI didn't create this problem, but it exposed it even further in these times of AI-hype, pressure, layoffs and a volatile market. 
 

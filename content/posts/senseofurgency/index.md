@@ -88,7 +88,7 @@ When you look for your next job, what will you brag about in the interviews?
 <br>**That big change you made:** That big re-org and restructuring that made the company more efficient. That new product area that made millions. 
 <br>**How it went:** The success of the company. How that strategy paid off. How many new customers we got. How you made the company more profitable. 
 
-{{< figure src="pm_eng.png" 
+{{< figure src="pm_eng2.png" 
 caption="Illustrations by ChatGPT (obviously)"
 alt="PM vs Engineer" >}}
 

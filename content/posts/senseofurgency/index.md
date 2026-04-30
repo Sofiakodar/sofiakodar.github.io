@@ -9,7 +9,7 @@ cover:
   relative: true
 
 hiddenInHomeList: true
-_build:
+build:
   list: never
   render: always
 robotsNoIndex: true

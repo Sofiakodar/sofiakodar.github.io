@@ -123,7 +123,8 @@ This conflict I describe in this post is not new but AI exposes it even further 
 **Engineering managers:** 
 - Stop acting as a shield that absorbs pressure from Product. Your role isn't to hide the business reality from your engineers or the technical risks from Product; it's to translate them. 
 - Make sure that the team has honest conversations with the PM so they understand each other. Have conversations on estimates and deadlines, even if the answer is "we don't know yet" rather than letting agile become an excuse for ambiguity. 
-- Reward not only clean code, but also shipping stable features that move the business forward, make sure that the team can see their impact. Help engineers meet customers and end-users and understand their day-to-day work and how their features make the customers' life better. 
+- Reward not only clean code, but also shipping stable features that move the business forward, make sure that the team can see their impact. 
+- Help (and push engineers) to spend time talking directly with customers and end-users, so they understand their users day-to-day and how the team's features solve real problems in a way that matters beyond code.
 - Help teams explain technical investments as a form of business intelligence — specifically by translating the ROI into measurable time, cost savings, and risk reduction that leadership already understands.
 
 If we can start communicating better with each other and truly try to understand each other's perspectives we can start collaborating for real. We need to stop viewing speed and stability as competing priorities and instead start treating them as shared responsibilities, so we can start building something great together.

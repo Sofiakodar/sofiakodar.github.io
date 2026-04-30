@@ -118,7 +118,7 @@ This conflict I describe in this post is not new but AI exposes it even further 
 - Avoid hiding in the tech castle. Spend more time understanding other roles in the company: what does it mean for them to not be able to tell customers when a new feature will be released? 
 - Have the honest conversations and try to understand each other. Build trust by explaning and fulfilling commitments. 
 - You probably became an engineer because you love solving problems, get genuinely interested in the end users and try to understand their perspective and situation. 
-- Learn to describe the gains from technical investments and the return on investment – your product manager and engineering manager can help you. Will the team be able to develop 5% faster if you can get rid of that pile of tech debt? 
+- Learn to describe the return on investment on technical initiatives – your product manager and engineering manager can help you. Will the team be able to develop 5% faster if you can get rid of that pile of tech debt or fix that infrastructure pain? 
 
 **Engineering managers:** 
 - Stop acting as a shield that absorbs pressure from Product. Your role isn't to hide the business reality from your engineers or the technical risks from Product; it's to translate them. 

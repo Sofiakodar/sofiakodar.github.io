@@ -8,8 +8,6 @@ cover:
   alt: "Speed vs stability"
   relative: true
 
-hiddenInHomeList: false
-
 ---
 
 ## The urgency gap ##

@@ -41,7 +41,7 @@ But if software starts getting built, configured, and operated by AI, what happe
 
 - <a href="https://www.techspot.com/news/112209-ai-compute-costs-getting-high-they-starting-rival.html">At Nvidia, compute already costs more than employees.</a> (Techspot)
 
-- <a href="https://www.aihero.dev/5-agent-skills-i-use-every-day">5 agent skills I use every day</a>Some ideas of agent skills to use in every day development. (Aihero)
+- <a href="https://www.aihero.dev/5-agent-skills-i-use-every-day">5 agent skills I use every day</a> Some ideas of agent skills to use in every day development. (Aihero)
 
 - <a href="https://joelabrahamsson.com/blog/from-bdd-to-llms-how-i-work-with-agents-this-week">From BDD to LLMs — How I work with agents (this week)</a> Always interesting to read about other people’s setup. 
 

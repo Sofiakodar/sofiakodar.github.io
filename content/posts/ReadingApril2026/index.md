@@ -1,5 +1,5 @@
 ---
-title: "Some interesting posts in April"
+title: "What I found interesting in April"
 date: 2026-05-13
 draft: false
 tags: ["leadership", "vibecoding", "product", "engineering", "ai"]

@@ -30,7 +30,7 @@ If you work hard on a new feature with lofty goals, only to hear nothing about t
 
 It’s like trying to master darts by throwing them out a window without ever seeing the board. You might throw with perfect form, but without seeing where they land, you can’t improve. You’re just guessing.
 
-Most teams have a vague, rudimentary view of how their work actually drives revenue. Companies often lack a feedback loop between Revenue, Customer Success, and Development. Development teams don’t know what actually delighted users, drove upgrades, or solved real problems. They only know what broke.
+Most teams have a vague, rudimentary view of how their work actually drives revenue. Companies often lack a feedback loop between Revenue, Customer Success, and Development. Development teams don’t know what actually delighted users, drove upgrades, or solved real problems. They only know what broke. (We are also really lousy at celebrating releases and wins, let's do better!)
 
 Similarly, many teams have a limited understanding of who is using their features and why. While user interviews are invaluable, they cannot replace the scale and objectivity of hard data. Today, getting that data is easier than ever, yet many teams still fly blind.
 
@@ -48,7 +48,7 @@ alt="Team" >}}
 ### Let's do better ###
 I think we have a lot to gain from taking this more seriously. For example: 
 - Make at least a rudimentary analysis before committing to large features. What are we hoping to gain? What is the cost of implementation? This doesn't need to be a weeks-long process, but create a baseline hypothesis to validate and follow up on later.
-- Conduct follow-up reviews for both individual teams and larger initiatives after every cycle, month, or quarter. Have honest discussions about what worked and what didn't to make smarter decisions for the next round, and also to also celebrate the wins. 
+- Conduct follow-up reviews for both individual teams and larger initiatives after every cycle, month, or quarter. Have honest discussions about what worked and what didn't to make smarter decisions for the next round. Celebrate wins! Take a moment to actually feel proud about features shipped as well. 
 - Stop and reevaluate when scope creeps. If the estimated time is exhausted and the feature isn't finished, stop. Re-evaluate. Is it still worth it? Don't just continue on autopilot if it was estimated to only be worth three weeks and you're on week six. Have a deliberate discussion and decide whether to make a new bet or pivot. (Related to this, I can recommend <a href="https://www.viktorcessan.com/the-economics-of-software-teams/">Viktor Cessans post about how much an extra week actually costs</a>.)
 - Check on features released three months, six months, or even years ago. Is anyone using them? Did we hit our goals? If you aimed for 10% adoption but are stuck at 1%, do you need better marketing, or was this simply the wrong bet? Remember, every feature means maintenance costs and complexity. Sometimes, the best move is to remove features entirely.
 - Create (and maintain!) good feedback loops between departements, specifically between Revenue, Customer Success, Product, and Development. These loops shouldn't just focus on what makes customers unhappy, but also  what drives sign-ups, upgrades, and delight. Understanding the positive drivers is just as critical as fixing the negatives. 

@@ -61,7 +61,8 @@ Cecilia described what to think about when trying to introduce AI into an organi
 caption="Mythos & Glasswing, What we actually know, by Dan Bergh Johnsson" 
 alt="Mythos" >}}
 ### Mythos & Glasswing, What we actually know, by Dan Bergh Johnsson
-Dan describes what we actually know about Mythos and what is just hype and marketing. 
+Dan describes what we actually know about Mythos and project Glasswing. Don't panic - but definitely get started!
+"The time it takes from finding a vulnerability into making an exploit is getting dramatically shorter. And the number of actors that are able to take an vulnerability and craft an exploit is getting dramatically larger." 
 
 <a href="https://www.youtube.com/watch?v=DjYO5WMZKrU">Mythos & Glasswing, What we actually know, by Dan Bergh Johnsson</a> (Youtube)
 

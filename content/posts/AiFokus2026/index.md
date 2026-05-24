@@ -66,6 +66,14 @@ Dan describes what we actually know about Mythos and project Glasswing. Don't pa
 
 <a href="https://www.youtube.com/watch?v=DjYO5WMZKrU">Mythos & Glasswing, What we actually know, by Dan Bergh Johnsson</a> (Youtube)
 
-Since there were three tracks I didn't have time to watch all the talks of course, so I will continue watching recordings of some I missed. Did I miss a really interesting one? Let me know! 
+{{< figure src="strom.PNG" 
+caption="Zero Secrets: Building Secure Infrastructure for AI Agents, by Jonathan Ström" 
+alt="Zero secrets" >}}
+### Zero Secrets: Building Secure Infrastructure for AI Agents, by Jonathan Ström 
+Jonathan gave some fun examples of agents gone rogue and what to think about to build secure infrastructure for agents. He talked about setting up a good environment with sandboxes and structured MCP tool access. He also made a good case for having sandboxes where the agent actually can delete itself, without any blast radius.  
+
+<a href="https://www.youtube.com/watch?v=ci67MiS9oE8">Zero Secrets: Building Secure Infrastructure for AI Agents, by Jonathan Ström</a> (Youtube)
+
+<br>Since there were three tracks I didn't have time to watch all the talks of course, so I will continue watching recordings of some I missed. Did I miss a really interesting one? Let me know! 
 <a href="https://www.youtube.com/@JfokusTheConference/videos">You can find all videos here on Youtube</a>
 

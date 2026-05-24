@@ -12,7 +12,7 @@ A few days ago I attended the AI fokus conference. I attended last year as well,
 
 A few talks I enjoyed and recommend are the following: 
 
-{{< figure src="tornhill.png" 
+{{< figure src="tornhill.PNG" 
 caption="Agentic AI Coding Practices for Speed with Quality, by Adam Tornhill" 
 alt="Agentic AI Coding Practices" >}}
 
@@ -21,7 +21,7 @@ Adam mentions how AI agents often cause 41% more defects and that initial AI vel
 
 <a href="https://www.youtube.com/watch?v=o08YDtDln7k">Agentic AI Coding Practices for Speed with Quality, by Adam Tornhill</a> (Youtube)
 
-{{< figure src="davies.png" 
+{{< figure src="davies.PNG" 
 caption="Own Your LLM: Running Generative and Agentic AI Locally, by John Davies" 
 alt="vibe engineering" >}}
 ### Own Your LLM: Running Generative and Agentic AI Locally, by John Davies
@@ -30,7 +30,7 @@ I got lots of fun ideas from this talk that I would like to experiment with. I d
 
 <a href="https://www.youtube.com/watch?v=hj5g1XT6mlg">Own Your LLM: Running Generative and Agentic AI Locally, by John Davies</a> (Youtube)
 
-{{< figure src="kniberg.png" 
+{{< figure src="kniberg.PNG" 
 caption="AI agents in practice - beyond the prototype, by Henrik Kniberg" 
 alt="AI agents" >}}
 ### AI agents in practice - beyond the prototype, by Henrik Kniberg ###
@@ -38,7 +38,7 @@ Henrik is always a great speaker, here he described how they work with their int
 
 <a href="https://www.youtube.com/watch?v=clKvOQrxj8Q">AI agents in practice - beyond the prototype, by Henrik Kniberg</a> (Youtube)
 
-{{< figure src="gille.png" 
+{{< figure src="gille.PNG" 
 caption="Agentic workflows that compound, by Magnus Gille" 
 alt="Agentic workflows" >}}
 
@@ -47,7 +47,7 @@ Similar to the other talk he held at Agentic dev days, discussing how you should
 
 <a href="https://www.youtube.com/watch?v=EeZeweKrZcQ">Agentic workflows that compound, by Magnus Gille</a> (Youtube)
 
-{{< figure src="cilla.png" 
+{{< figure src="cilla.PNG" 
 caption="Making AI Adoption Work: A Practical Structure for Modern Software Development, by Cecilia Borg" 
 alt="AI adoption" >}}
 ### Making AI Adoption Work: A Practical Structure for Modern Software Development, by Cecilia Borg
@@ -55,7 +55,7 @@ Cecilia described what to think about when trying to introduce AI into an organi
 
 <a href="https://www.youtube.com/watch?v=kp-zdvGSWJ0">Making AI Adoption Work: A Practical Structure for Modern Software Development, by Cecilia Borg</a> (Youtube)
 
-{{< figure src="bergj.png" 
+{{< figure src="bergj.PNG" 
 caption="Mythos & Glasswing, What we actually know, by Dan Bergh Johnsson" 
 alt="Mythos" >}}
 ### Mythos & Glasswing, What we actually know, by Dan Bergh Johnsson

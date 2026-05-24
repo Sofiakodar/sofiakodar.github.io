@@ -8,9 +8,11 @@ cover:
   alt: "AI fokus 2026"
   relative: true
 ---
-A few days ago I attended the AI fokus conference. I attended last year as well, and I think this year’s version was improved with even better talks. It was a great venue, very well planned with good breaks for coffee and lunch and I had lots of interesting conversations with different people during the breaks. Always fun to meet people you haven't seen in a few years. 
+A few days ago (May 19) I attended the AI fokus conference. I attended last year as well, and I think this year’s version was improved with even better talks. It was a great venue, very well planned with good breaks for coffee and lunch and I had lots of interesting conversations with different people during the breaks. Always fun to meet people you haven't seen in a few years. 
 
-A few talks I enjoyed and recommend are the following: 
+I think that the main themes this time were quality and context: how to build with quality and avoid AI slop code, different aspects of tech health and how to handle the right amount of context. There were also lots of discussions about different flavors of agent workflows and agents. 
+
+Here are a few talks I enjoyed and recommend: 
 
 {{< figure src="tornhill.PNG" 
 caption="Agentic AI Coding Practices for Speed with Quality, by Adam Tornhill" 
@@ -34,7 +36,7 @@ I got lots of fun ideas from this talk that I would like to experiment with. I d
 caption="AI agents in practice - beyond the prototype, by Henrik Kniberg" 
 alt="AI agents" >}}
 ### AI agents in practice - beyond the prototype, by Henrik Kniberg ###
-Henrik is always a great speaker, here he described how they work with their internal agents at Abundly and gave some good tips and tricks to think about when choosing what problems to send to agents and how to implement good agent workflows. 
+Henrik is always a great speaker, here he described how they work with their internal agents at Abundly and gave some good tips and tricks to think about when choosing what problems to delegate to agents and how to implement good agent workflows. 
 
 <a href="https://www.youtube.com/watch?v=clKvOQrxj8Q">AI agents in practice - beyond the prototype, by Henrik Kniberg</a> (Youtube)
 
@@ -43,7 +45,7 @@ caption="Agentic workflows that compound, by Magnus Gille"
 alt="Agentic workflows" >}}
 
 ### Agentic workflows that compound, by Magnus Gille
-Similar to the other talk he held at Agentic dev days, discussing how you should have an agent act as a senior grumpy engineer. He talked about how he works with persistent context, by having his own physical context drive. 
+Similar to the other talk he held at Agentic dev days, discussing how you should have an agent act as a senior grumpy engineer to review and improve other agent's work. He talked about how he works with persistent context, by having his own physical context drive. 
 
 <a href="https://www.youtube.com/watch?v=EeZeweKrZcQ">Agentic workflows that compound, by Magnus Gille</a> (Youtube)
 
@@ -51,7 +53,7 @@ Similar to the other talk he held at Agentic dev days, discussing how you should
 caption="Making AI Adoption Work: A Practical Structure for Modern Software Development, by Cecilia Borg" 
 alt="AI adoption" >}}
 ### Making AI Adoption Work: A Practical Structure for Modern Software Development, by Cecilia Borg
-Cecilia described what to think about when trying to introduce AI into an organisation. She describes something that more and more people realize, that the bottleneck moves with AI adoption, when code is no longer the bottleneck, what happens next? She also talks about how AI productivity correlates to good tech health (for example the DORA metrics). 
+Cecilia described what to think about when trying to introduce AI into an organisation. She describes something that more and more people realize, that the bottleneck moves with AI adoption – when code is no longer the bottleneck, what happens next? She also talks about how AI productivity correlates to good tech health (for example the DORA metrics). 
 
 <a href="https://www.youtube.com/watch?v=kp-zdvGSWJ0">Making AI Adoption Work: A Practical Structure for Modern Software Development, by Cecilia Borg</a> (Youtube)
 

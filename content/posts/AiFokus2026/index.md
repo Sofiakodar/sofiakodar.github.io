@@ -20,6 +20,7 @@ alt="Agentic AI Coding Practices" >}}
 
 ### Agentic AI Coding Practices for Speed with Quality, by Adam Tornhill ###
 Adam mentions how AI agents often cause 41% more defects and that initial AI velocity gains quickly can be cancelled out after two months because of a huge increase in code complexity. He suggests adding code health to the process to make sure that code becomes healthy and easy to read and maintain for both humans and AI agents. He argues that healthy code makes engineers 10x faster. He also mentions the CLEAR principles for software design in the agentic age. Conceptual alignment. Local reasoning. Explicit intent. Avoid search luck. Reduce the edit surface. 
+Don't miss the part about code coverage (25 min in), where he states that you should have 100% code coverage with agents ("agents, they have this interesting tendency of sometimes fixing a failing regression test by deleting it"). 
 
 <a href="https://www.youtube.com/watch?v=o08YDtDln7k">Agentic AI Coding Practices for Speed with Quality, by Adam Tornhill</a> (Youtube)
 

@@ -3,3 +3,26 @@ This is just a placeholder blank stylesheet so as to support adding custom style
 
 Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-css-with-themes-assets for more info
 */
+
+.post-content table {
+  table-layout: fixed;
+  width: 100%;
+}
+
+.post-content table td,
+.post-content table th {
+  vertical-align: top;
+}
+
+.post-content table th:nth-child(1),
+.post-content table td:nth-child(1) {
+  width: 5.5rem;
+  white-space: nowrap;
+}
+
+.post-content table th:nth-child(2),
+.post-content table td:nth-child(2),
+.post-content table th:nth-child(3),
+.post-content table td:nth-child(3) {
+  width: 50%;
+}

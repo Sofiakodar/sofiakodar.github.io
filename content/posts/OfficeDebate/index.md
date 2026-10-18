@@ -82,10 +82,10 @@ There's a huge difference in time and getting my private life working, when I do
 ### What would be the ultimate setup? ###
 Before I get to what I think works best, one caveat: this isn't a universal answer. Junior people and new hires benefit from in-person mentorship and onboarding, parents without flexible hours face different trade-offs, and not everyone has a quiet room at home to work in. What follows is what works for me and my teams.
 
-For me personally, a well-functioning hybrid setup would be best, I need the social interactions at the office but I would truly benefit from less commute time and more focus time so I don't need to work in the evening. I would like a setup with less hybrid meetings and more intentional days: collaboration days vs focus days.
+For me personally, a well-functioning hybrid setup would be best. I need the social interactions at the office, but I would truly benefit from less commute time and more focus time, so I don't need to work in the evening. I would like a setup with fewer hybrid meetings and more intentional days: collaboration days and focus days.
 
-I think the ultimate setup would be two agreed days in the office with focus on collaboration, workshops, discussing with other teams and departments. Then two or three focus days where people can work from home and lock in and focus on the tasks they agreed on, without being disturbed. 
-The office should of course stay open for anyone who wants to come in, some people have problems focusing at home and some people need the daily social interactions in the office. 
+For engineering teams, I think the ultimate setup would be two agreed days in the office with focus on collaboration, workshops, discussions with other teams and departments, then two or three focus days where people can work from home and lock in on the tasks they agreed on, without interruptions. 
+The office should of course stay open for anyone who wants to come in. Some people have problems focusing at home and some people need the daily social interactions in the office. 
 
 This is easier said than done. I’ve seen teams agree on specific office days, only to end up with at least one person working remotely most of the time. As a result, meetings and collaboration still happen in hybrid mode, creating frustration without delivering the benefits of being in the office or working remotely. I know that it's possible and can work perfectly. It just takes some effort and collaboration.
 
@@ -114,3 +114,5 @@ https://doi.org/10.1177/2158244020988869
 * Så kan flexibelt arbete flyta på bättre (2024) https://forskning.se/2024/08/30/metoderna-som-far-distansarbetet-att-fungera/ 
 * Många får mer gjort vid distansarbete (2023) https://forskning.se/2023/03/06/manga-far-mer-gjort-vid-distansarbete/ 
 * Så blir kontoret ett lockbete för distansarbetare (2024) https://forskning.se/2024/08/27/sa-blir-kontoret-ett-lockbete-for-distansarbetare/
+
+* As always, this blog post is written by me, not an AI, so all errors are my own.

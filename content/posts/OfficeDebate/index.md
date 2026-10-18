@@ -50,15 +50,14 @@ I definitely see a huge benefit from collaboration IRL. I personally notice a hu
 At my current job we don't have good conferencing equipment so hybrid meetings mean that everyone stares at their laptop instead of each other in the room. The sound is less than ideal, with sound and microphones from one of the laptops in the room. But even with a better setup with a good monitor and speakers everyone stares at the screen instead of each other in the room, which makes interactions unnatural. 
 Fully remote meetings are better than hybrid, but IRL meetings are best. 
 
+{{< figure src="meeting_room.png" 
+caption="Hybrid meetings" 
+alt="Hybrid meetings" >}}
+
 **Management perspective**
 As a manager, I benefit from seeing my direct reports and teams in the office. I can more easily pick up on whether someone looks stressed or upset, if someone starts being absent a lot, or if I notice that some colleagues aren't getting along.
 
 Most of my days are spent talking or in meetings, so I don't suffer from the lack of focus as much as engineers do. That said, I do have work that requires concentration. I also have work I don't want visible on my monitor in an open-plan office, which means I still need to find a quiet meeting room when I need to focus.
-
-
-{{< figure src="meeting_room.png" 
-caption="Hybrid meetings" 
-alt="Hybrid meetings" >}}
 
 
 ### A comparison of an actual day for me ### 

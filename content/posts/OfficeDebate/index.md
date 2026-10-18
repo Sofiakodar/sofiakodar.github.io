@@ -43,7 +43,7 @@ A friend pointed out that I should mention germs. I've never been as healthy as 
 There's also a huge difference in stress levels. At the office there are people around you all the time and depending on your level of stress, introversion and shyness, days in the office, especially in an open-plan office, can mean a lot more stress for some people (links and reading below). 
 
 **Teamwork**  
-I definitely see a huge benefit from collaboration IRL. I personally notice a huge difference in meetings and workshops when we're all in the office versus hybrid meetings. In a hybrid meeting everyone stares at the screen instead of being present in the room and looking at each other and responding to whoever is talking. The meeting becomes awkward and less efficient. 
+I definitely see a huge benefit from collaboration IRL. I personally notice a huge difference in meetings and workshops when we're all in the office versus hybrid meetings. In a hybrid meeting everyone stares at the screen instead of being present in the room, looking at each other and responding to whoever is talking. The meeting becomes awkward and less efficient. 
 
 At my current job we don't have good conferencing equipment so hybrid meetings mean that everyone stares at their laptop instead of each other in the room. The sound is less than ideal, with sound and microphones from one of the laptops in the room. But even with a better setup with a good monitor and speakers everyone stares at the screen instead of each other in the room, which makes interactions unnatural. 
 Fully remote meetings are better than hybrid, but IRL meetings are best. 

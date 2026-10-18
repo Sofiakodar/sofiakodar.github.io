@@ -101,8 +101,6 @@ https://doi.org/10.3390/ijerph16020280
 https://doi.org/10.1016/j.apergo.2019.102933
 * Office Design’s Impact on Psychosocial Work Environment and Emotional Health (2024)
 https://pmc.ncbi.nlm.nih.gov/articles/PMC11050261/
-* A Comparison of Psychological and Work Outcomes in Open-Plan and Cellular Office Designs: A Systematic Review (2021)
-https://doi.org/10.1177/2158244020988869
 * Effects of a Participative Workplace Intervention on Work Strategies and Expectations of Availability Among Office-Based Employees With Flexible Work Arrangements (2024) https://www.tandfonline.com/doi/full/10.1080/24725838.2024.2329109 
 * Hybrid working from home improves retention without damaging performance (2024) https://www.nature.com/articles/s41586-024-07500-2
 * Worker interrupted, the cost of task switching https://www.fastcompany.com/944128/worker-interrupted-cost-task-switching

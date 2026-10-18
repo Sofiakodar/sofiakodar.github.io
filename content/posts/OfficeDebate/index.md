@@ -79,7 +79,7 @@ Before I get to what I think works best, one caveat: this isn't a universal answ
 For me personally, a well-functioning hybrid setup would be best. For an engineering team, I think the ultimate setup would be two agreed days in the office with focus on collaboration, workshops, discussing with other teams and departments. Then two or three focus days where people can work from home and lock in and focus on the tasks they agreed on, without being disturbed. 
 The office should of course stay open for anyone who wants to come in, some people have problems focusing at home and some people need the daily social interactions in the office. 
 
-Sadly, this is easier said than done. I’ve seen teams agree on specific office days, only to end up with at least one person working remotely most of the time. As a result, meetings and collaboration still happen in hybrid mode, creating frustration without delivering the benefits of being in the office or working remotely. I know that it's possible and can work perfectly. It just takes some effort and collaboration.
+This is easier said than done. I’ve seen teams agree on specific office days, only to end up with at least one person working remotely most of the time. As a result, meetings and collaboration still happen in hybrid mode, creating frustration without delivering the benefits of being in the office or working remotely. I know that it's possible and can work perfectly. It just takes some effort and collaboration.
 
 
 ---

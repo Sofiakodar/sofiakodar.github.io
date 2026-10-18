@@ -53,7 +53,7 @@ Fully remote meetings are better than hybrid, but IRL meetings are best.
 **Management perspective**  
 As a manager, I benefit from seeing my direct reports and teams in the office. I can more easily pick up on whether someone looks stressed or upset, if someone starts being absent a lot, or if I notice that some colleagues aren't getting along.
 
-Most of my days are spent talking or in meetings, so I don't suffer from the lack of focus as much as engineers do. That said, I do have work that requires concentration. I also have work I don't want visible on my monitor in an open-plan office, which means I still need to find a quiet meeting room when I need to focus.
+Most of my days are spent talking or in meetings, so I don't suffer from the lack of focus as much as engineers do. That said, I do have work that requires concentration. I also have work I don't want visible on my monitor in an open-plan office, which means I still need to find a quiet meeting room when I need to focus or do sensitive work.
 
 {{< figure src="meeting_room.png" 
 caption="Hybrid meetings" 

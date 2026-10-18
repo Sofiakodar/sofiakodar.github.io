@@ -76,8 +76,8 @@ There's a huge difference in time and getting my private life working, when I do
 ### What would be the ultimate setup? ###
 Before I get to what I think works best, one caveat: this isn't a universal answer. Junior people and new hires benefit from in-person mentorship and onboarding, parents without flexible hours face different trade-offs, and not everyone has a quiet room at home to work in. What follows is what works for me and my teams.
 
-For me personally, a well-functioning hybrid setup would be best. For an engineering team, I think the ultimate setup would be two agreed days in the office with focus on collaboration, workshops, discussing with other teams and departments and then having two or three focus days where people can work from home and lock in and focus on the tasks they agreed on, without being disturbed all day. 
-The office should stay open for anyone who wants to come in, some people have problems focusing at home and some people need the daily social interactions in the office. 
+For me personally, a well-functioning hybrid setup would be best. For an engineering team, I think the ultimate setup would be two agreed days in the office with focus on collaboration, workshops, discussing with other teams and departments. Then two or three focus days where people can work from home and lock in and focus on the tasks they agreed on, without being disturbed. 
+The office should of course stay open for anyone who wants to come in, some people have problems focusing at home and some people need the daily social interactions in the office. 
 
 Sadly, this is easier said than done. I’ve seen teams agree on specific office days, only to end up with at least one person working remotely most of the time. As a result, meetings and collaboration still happen in hybrid mode, creating frustration without delivering the benefits of being in the office or working remotely. I know that it's possible and can work perfectly. It just takes some effort and collaboration.
 

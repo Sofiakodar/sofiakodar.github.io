@@ -113,4 +113,6 @@ https://pmc.ncbi.nlm.nih.gov/articles/PMC11050261/
 * Många får mer gjort vid distansarbete (2023) https://forskning.se/2023/03/06/manga-far-mer-gjort-vid-distansarbete/ 
 * Så blir kontoret ett lockbete för distansarbetare (2024) https://forskning.se/2024/08/27/sa-blir-kontoret-ett-lockbete-for-distansarbetare/
 
-* As always, this blog post is written by me, not an AI, so all errors are my own.
+
+
+*As always, this blog post is written by me, not an AI, so all errors are my own.*

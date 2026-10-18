@@ -13,7 +13,9 @@ The office debate seems to never end, with lots of companies now demanding on-si
 
 I like working from the office. I enjoy the chit-chat, and I think that meetings and discussions are much better in real life. But I have a 50-minute commute, which costs me more than 8 hours a week, and children who need me.
 
-I’ve experienced all three ways of working: fully office-based with no flexibility before the pandemic, fully remote, and hybrid. The pandemic changed my expectations of work and my view on what a good work–life balance could look like.
+I’ve experienced all three ways of working: fully office-based with no flexibility before the pandemic, fully remote, and hybrid. The pandemic changed my expectations of work and my view on what a good work–life balance could look like. 
+
+Companies face a difficult trade-off between the benefits of in-person collaboration and the assumption that being in the office leads to higher productivity, on the one hand, and employees’ work–life balance, focus, stress levels, and personal freedom on the other. For many engineers, working from home enables greater productivity through fewer interruptions and more time for focused work.
 
 ### Comparing in-office work to remote work ### 
 **Social**  

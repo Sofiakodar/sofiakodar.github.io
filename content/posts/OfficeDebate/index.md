@@ -79,6 +79,12 @@ alt="Hybrid meetings" >}}
 
 There's a huge difference in time and getting my private life working, when I don't have to commute. 
 
+### Worst of both worlds - being in the office to have remote meetings ###
+Several of my friends have the worst setup: their companies mandate four to five days of office presence, but their teams are spread across cities or countries. So they commute to the office just to sit through hybrid or remote meetings all day. They get the commute, the scramble for an empty room, and still end up in remote calls — without any of the benefits of being in the office or working remotely.
+
+They aren't alone. <a href="https://www.theatlantic.com/ideas/2026/10/in-office-remote-work/688993/">The Atlantic</a> recently wrote about this phenomenon, calling it "in-office remote work." It's frustrating, and it's growing. 
+>*In a September survey of 1,835 college-educated American workers, we found that, on their most recent day at the office, more than 70 percent of respondents had at least one member of their team who was not in the building with them. As a result, roughly half of respondents had no fully in-person meetings. And more than a third had exclusively online meetings because their teams moved meetings entirely online whenever anyone was remote.* 
+
 ### What would be the ultimate setup? ###
 Before I get to what I think works best, one caveat: this isn't a universal answer. Junior people and new hires benefit from in-person mentorship and onboarding, parents without flexible hours face different trade-offs, and not everyone has a quiet room at home to work in. What follows is what works for me and my teams.
 

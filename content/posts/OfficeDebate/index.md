@@ -24,6 +24,7 @@ When working from home you lose out on lots of the social chit-chat, but on the 
 
 **Time**  
 A normal Stockholm 40-50 minute commute to the office means 7-8 hours a week spent on commuting if you're in the office 5 days/week. That's a whole extra working day on a train/bus instead of working, exercising or socializing. That's a lot! Working from home frees up all that time for exercise, friends, family, hobbies and fun stuff instead.
+Side note: When I moved into this house, I chose this part of the city because it fit my job at the time. I had a 12-minute subway ride to work (max 30 min door to door). It wasn't until I changed jobs that the commute became a problem.
 
 **Focus**   
 Constant chatter from colleagues, people walking past, or loud arguments at the desk next to you make it hard to focus—especially for deep work like programming, writing, or learning. At home I can easily concentrate and put on background music to help.
@@ -77,7 +78,8 @@ alt="Hybrid meetings" >}}
 | 19:00 | Dishes, help kids with homework – they are tired. Do laundry, pay bills and other admin stuff. | Dishes, talk to family, hopefully homework is already finished and we can watch a show or play some games. (Laundry and bills already done.) | 
 | 20:00 | Finish up some work. I have 30-60 min left of my workday and I've saved some focus work. One of the kids eats dinner after his activity and has some homework left to do but is too tired. | Play board games or video games with family, read or exercise. | 
 
-There's a huge difference in time and getting my private life working, when I don't have to commute. 
+The commute takes a real toll on my time and my private life.
+
 
 ### Worst of both worlds - being in the office to have remote meetings ###
 Several of my friends have the worst setup: their companies mandate four to five days of office presence, but their teams are spread across cities or countries. So they commute to the office just to sit through hybrid or remote meetings all day. They get the commute, the scramble for an empty room, and still end up in remote calls — without any of the benefits of being in the office or working remotely.

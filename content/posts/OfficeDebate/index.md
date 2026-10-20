@@ -48,7 +48,7 @@ There's also a difference in stress levels. At the office there are people aroun
 **Teamwork**  
 I definitely see a huge benefit from collaboration IRL. I personally notice a big difference in meetings and workshops when we're all in the office versus hybrid meetings. In a hybrid meeting everyone stares at the screen instead of being present in the room, looking at each other and responding to whoever is talking. The meeting becomes awkward and less efficient, not to mention technical problems and lag. 
 
-At my current job we don't have good conferencing equipment so hybrid meetings mean that everyone stares at their laptop instead of each other in the room. The sound is less than ideal, with sound and microphones from one of the laptops in the room. But even with a better setup with a good monitor and speakers everyone stares at the screen instead of each other in the room, which makes interactions unnatural. 
+At my current job we don't have good conferencing equipment so hybrid meetings mean that everyone stares at their laptop. The sound is less than ideal, with sound and microphones from one of the laptops in the room. But even with a better setup with a good monitor and speakers everyone stares at the screen instead of each other in the room, which makes interactions unnatural. 
 Fully remote meetings are better than hybrid, but IRL meetings are best. 
 
 **Management perspective**  

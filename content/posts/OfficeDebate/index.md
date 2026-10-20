@@ -24,6 +24,7 @@ When working from home you lose out on lots of the social chit-chat, but on the 
 
 **Time**  
 A normal Stockholm 45 minute commute to the office means 7.5 hours a week spent on commuting if you're in the office 5 days/week. That's a whole extra working day on a train/bus instead of working, exercising or socializing. That's a lot! Working from home frees up all that time for exercise, friends, family, hobbies and fun stuff instead.
+
 Side note: When I moved into this house, I chose this part of the city because it fit my job at the time. I had a 12-minute subway ride to work (max 30 min door to door). It wasn't until I changed jobs that the commute became a problem.
 
 **Focus**   
@@ -33,12 +34,10 @@ There's a lot of difference in opinion depending on whether someone is an introv
 
 I have had several engineers state to me that they get less than 40% work done in the office compared to at home because of the constant interruptions and distractions. It's great that designers, PMs, or sales and customer success can come by and ask quick questions, but we all know the cost of task switching, right? (One widely <a href="https://www.fastcompany.com/944128/worker-interrupted-cost-task-switching">cited study</a> of workplace behavior found that it took an average of 23 minutes and 15 seconds for interrupted work to be resumed.)
 
-{{< figure src="focus.png" 
-caption="Surrounded by chatter and trying to focus" 
-alt="Trying to focus" >}}
+{{< figure src="focus.png" alt="Trying to focus" >}}
 
 **Setup and comfort**   
-I'm quite short. I've never had a chair and desk that's the right height for me in an office in all these years. On top of that, I usually spend most of my days in meetings and all meeting room chairs and tables are too high for me, which makes them highly uncomfortable. At home I have an adjustable standing desk and a chair that fits me.
+I'm quite short. I've **never** had a chair and desk that's the right height for me in an office. On top of that, I usually spend most of my days in meetings and all meeting room chairs and tables are too high for me, which makes them highly uncomfortable. At home I have an adjustable standing desk and a chair that fits me.
 
 **Health and stress**  
 A friend pointed out that I should mention germs. I've never been as healthy as when I worked fully remote. I was never sick. On the subway and at the office I'm surrounded by sneezing and coughing people all the time. 
@@ -56,9 +55,7 @@ As a manager, I benefit from seeing my direct reports and teams in the office. I
 
 Most of my days are spent talking or in meetings, so I don't suffer from the lack of focus as much as engineers do. That said, I do have work that requires concentration. I also have work I don't want visible on my monitor in an open-plan office, which means I still need to find a quiet meeting room when I need to focus or do sensitive work.
 
-{{< figure src="meeting_room.png" 
-caption="Hybrid meetings" 
-alt="Hybrid meetings" >}}
+{{< figure src="meeting_room.png" alt="Hybrid meetings" >}}
 
 
 ### A comparison of an actual day for me ### 
@@ -78,11 +75,10 @@ alt="Hybrid meetings" >}}
 | 19:00 | Dishes, help kids with homework – they are tired. Do laundry, pay bills and other admin stuff. | Dishes, talk to family, hopefully homework is already finished and we can watch a show or play some games. (Laundry and bills already done.) | 
 | 20:00 | Finish up some work. I have 30-60 min left of my workday and I've saved some focus work. One of the kids eats dinner after his activity and has some homework left to do but is too tired. | Play board games or video games with family, read or exercise. | 
 
-The commute takes a real toll on my time and my private life.
 
 
 ### Worst of both worlds - being in the office to have remote meetings ###
-Several of my friends have the worst setup: their companies mandate four to five days of office presence, but their teams are spread across cities or countries. So they commute to the office just to sit through hybrid or remote meetings all day. They get the commute, the scramble for an empty room, and still end up in remote calls — without any of the benefits of being in the office or working remotely.
+Several of my friends have the worst setup: their companies mandate four to five days of office presence, but their teams are spread across cities or countries. So they commute to the office just to sit through hybrid or remote meetings all day. They get the commute, the scramble for an empty room, and still end up in remote calls - without any of the benefits of being in the office or working remotely.
 
 They aren't alone. <a href="https://www.theatlantic.com/ideas/2026/10/in-office-remote-work/688993/">The Atlantic</a> recently wrote about this phenomenon, calling it "in-office remote work." It's frustrating, and it's growing. 
 >*In a September survey of 1,835 college-educated American workers, we found that, on their most recent day at the office, more than 70 percent of respondents had at least one member of their team who was not in the building with them. As a result, roughly half of respondents had no fully in-person meetings. And more than a third had exclusively online meetings because their teams moved meetings entirely online whenever anyone was remote.* 
@@ -92,8 +88,8 @@ Before I get to what I think works best, one caveat: this isn't a universal answ
 
 For me personally, a well-functioning hybrid setup would be best. I need the social interactions at the office, but I would truly benefit from less commute time and more focus time, so I don't need to work in the evening and have more time for my family and hobbies. I would like a setup with fewer hybrid meetings and more intentional days: collaboration days and focus days.
 
-For engineering teams, I think the ultimate setup would be two agreed days in the office with focus on collaboration, workshops, discussions with other teams and departments, then two or three focus days where people can work from home and lock in on the tasks they agreed on, without unneccessary interruptions, chatting with each other and collaborating remotely when needed. 
-The office should of course stay open for anyone who wants to come in. Some people have problems focusing at home and some people need the daily social interactions in the office. 
+For engineering teams, I think the ultimate setup would be two agreed days in the office with focus on collaboration, workshops, discussions with other teams and departments, then two or three focus days where people can work from home and lock in on the tasks they agreed on, without unneccessary interruptions, but of course chatting with each other and collaborating remotely when needed. 
+The office should of course stay open for anyone who wants to be there. Some people have problems focusing at home and some people need the daily social interactions in the office. 
 
 This is easier said than done. I’ve seen teams agree on specific office days, only to end up with at least one person working remotely most of the time. As a result, meetings and collaboration still happen in hybrid mode, creating frustration without delivering the benefits of being in the office or working remotely. I know that it's possible and can work perfectly. It just takes some effort and collaboration.
 

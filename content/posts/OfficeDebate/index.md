@@ -11,39 +11,39 @@ cover:
 
 The office debate seems to never end, with lots of companies now demanding on-site work, both established corporations and fast-growing AI and tech startups. I see posts on social media from people who don't understand why people want to work from home, while others state that they would quit immediately if their employer forced them back to the office full time. 
 
+Companies face a difficult trade-off between the benefits of in-person collaboration and the assumption that being in the office leads to higher productivity, on the one hand, and employees’ work–life balance, focus, stress levels, and personal freedom on the other. For many engineers, working from home enables greater productivity through fewer interruptions and more time for focused work.
+
 I like working from the office. I enjoy the chit-chat, and I think that meetings and discussions are much better in real life. But I have a 50-minute commute, which costs me more than 8 hours a week, and children who need me.
 
-I’ve experienced all three ways of working: fully office-based with no flexibility before the pandemic, fully remote, and hybrid. The pandemic changed my expectations of work and my view on what a good work–life balance could look like. 
-
-Companies face a difficult trade-off between the benefits of in-person collaboration and the assumption that being in the office leads to higher productivity, on the one hand, and employees’ work–life balance, focus, stress levels, and personal freedom on the other. For many engineers, working from home enables greater productivity through fewer interruptions and more time for focused work.
+I’ve experienced all three ways of working: fully office-based with no flexibility before the pandemic, fully remote, and hybrid. The pandemic changed my expectations of work and my view on what a good work-life balance could look like. 
 
 ### Comparing in-office work to remote work ### 
 **Social**  
 Much more fun and more casual chats and jokes at the office. When working remotely there's less social chit-chat with colleagues and you don't get to know them the same way. Just this last week I have had chats with colleagues about new AI tools, when and how to do laundry, the quality of jeans, and when my colleague saw Alexander Skarsgård bare-chested on a balcony.  
-When working from home you lose out on lots of the social chit-chat, but on the other hand you have much more time with a partner, family, friends and/or pets. 
+When working from home you lose out on lots of the social chit-chat, but on the other hand you can focus better and you have much more time with a partner, family, friends and/or pets. 
 
 **Time**  
-A normal Stockholm 40-50 minute commute to the office means 7-8 hours a week spent on commuting if you're in the office 5 days/week. That's a whole extra working day on a train/bus instead of working, exercising or socializing. That's a lot! Working from home frees up all that time for exercise, friends, family, hobbies and fun stuff instead.
+A normal Stockholm 45 minute commute to the office means 7.5 hours a week spent on commuting if you're in the office 5 days/week. That's a whole extra working day on a train/bus instead of working, exercising or socializing. That's a lot! Working from home frees up all that time for exercise, friends, family, hobbies and fun stuff instead.
 Side note: When I moved into this house, I chose this part of the city because it fit my job at the time. I had a 12-minute subway ride to work (max 30 min door to door). It wasn't until I changed jobs that the commute became a problem.
 
 **Focus**   
-Constant chatter from colleagues, people walking past, or loud arguments at the desk next to you make it hard to focus—especially for deep work like programming, writing, or learning. At home I can easily concentrate and put on background music to help.
+Constant chatter from colleagues, people walking past, or loud arguments at the desk next to you make it hard to focus - especially for deep work like programming, writing, or learning. At home I can easily concentrate and put on background music to help.
 
 There's a lot of difference in opinion depending on whether someone is an introvert or extrovert and how demanding their work is. Of course it's great to be able to ask questions whenever you feel like it. If your job mainly consists of low-focus work or talking, it's no problem, and you can forget how it is to try to concentrate in that environment. 
 
 I have had several engineers state to me that they get less than 40% work done in the office compared to at home because of the constant interruptions and distractions. It's great that designers, PMs, or sales and customer success can come by and ask quick questions, but we all know the cost of task switching, right? (One widely <a href="https://www.fastcompany.com/944128/worker-interrupted-cost-task-switching">cited study</a> of workplace behavior found that it took an average of 23 minutes and 15 seconds for interrupted work to be resumed.)
 
 {{< figure src="focus.png" 
-caption="Trying to focus" 
+caption="Surrounded by chatter and trying to focus" 
 alt="Trying to focus" >}}
 
 **Setup and comfort**   
-I'm quite short. I've never had a chair and desk that's the right height for me in an office. On top of that, I usually spend most of my days in meetings and all meeting room chairs and tables are too high for me, which makes them highly uncomfortable. At home I have an adjustable standing desk and a chair that fits me.
+I'm quite short. I've never had a chair and desk that's the right height for me in an office in all these years. On top of that, I usually spend most of my days in meetings and all meeting room chairs and tables are too high for me, which makes them highly uncomfortable. At home I have an adjustable standing desk and a chair that fits me.
 
 **Health and stress**  
 A friend pointed out that I should mention germs. I've never been as healthy as when I worked fully remote. I was never sick. On the subway and at the office I'm surrounded by sneezing and coughing people all the time. 
 
-There's also a huge difference in stress levels. At the office there are people around you all the time and depending on your level of stress, introversion and shyness, days in the office, especially in an open-plan office, can mean a lot more stress for some people (links and reading below). 
+There's also a difference in stress levels. At the office there are people around you all the time and depending on your level of stress, introversion and shyness, days in the office, especially in an open-plan office, can mean a lot more stress for some people (links and reading below). 
 
 **Teamwork**  
 I definitely see a huge benefit from collaboration IRL. I personally notice a big difference in meetings and workshops when we're all in the office versus hybrid meetings. In a hybrid meeting everyone stares at the screen instead of being present in the room, looking at each other and responding to whoever is talking. The meeting becomes awkward and less efficient. 

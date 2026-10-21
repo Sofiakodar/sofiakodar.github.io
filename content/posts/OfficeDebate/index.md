@@ -78,15 +78,17 @@ Most of my days are spent talking or in meetings, so I don't suffer from the lac
 
 
 ### Worst of both worlds - being in the office to have remote meetings ###
-Several of my friends have the worst setup: their companies mandate four to five days of office presence, but their teams are spread across cities or countries. So they commute to the office just to sit through hybrid or remote meetings all day. They get the commute, the scramble for an empty room, and still end up in remote calls - without any of the benefits of being in the office or working remotely.
+Several of my friends have the worst setup: their companies mandate four to five days of office presence, but their teams are spread across cities or countries. So they commute to the office just to sit through hybrid or remote meetings all day. They get the commute, the scramble for an empty room, and still end up in remote calls – without any of the benefits of being in the office or working remotely.
 
 They aren't alone. <a href="https://www.theatlantic.com/ideas/2026/10/in-office-remote-work/688993/">The Atlantic</a> recently wrote about this phenomenon, calling it "in-office remote work." It's frustrating, and it's growing. 
 >*In a September survey of 1,835 college-educated American workers, we found that, on their most recent day at the office, more than 70 percent of respondents had at least one member of their team who was not in the building with them. As a result, roughly half of respondents had no fully in-person meetings. And more than a third had exclusively online meetings because their teams moved meetings entirely online whenever anyone was remote.* 
 
 ### What would be the ultimate setup? ###
-There isn't a universal answer of course. Junior people and new hires benefit from in-person mentorship and onboarding, parents without flexible hours face different trade-offs, and not everyone has a quiet room at home to work in. Everyone has different needs and preferences. 
+There isn't a universal answer, of course. Junior people and new hires benefit from in-person mentorship and onboarding, parents without flexible hours face different trade-offs, and not everyone has a quiet room at home to work in. 
+I also need to acknowledge that working remotely isn't an option in every industry. Our society wouldn't function without people working in service, healthcare, transport and so on. For them, this whole debate is a privilege.
 
-For me personally, a well-functioning hybrid setup would be best. I need the social interactions at the office, but I would truly benefit from less commute time and more focus time, so I don't need to work in the evening and have more time for my family and hobbies. I would like a setup with fewer hybrid meetings and more intentional days: collaboration days and focus days. I think intentional days win over a constant stream of hybrid meetings because everyone chooses to be in the office different days. 
+With that said, what follows is what works for me and my teams.
+For me, a well-functioning hybrid setup would be best. I need the social interactions at the office, but I would truly benefit from less commute time and more focus time, so I don't need to work in the evening and I have more time for my family and hobbies. I would like a setup with fewer hybrid meetings and more intentional days: collaboration days and focus days. I think intentional days win over a constant stream of hybrid meetings, which is what you get when everyone just picks their own days.
 
 For engineering teams, I think the ultimate setup would be two agreed days in the office with focus on collaboration, workshops, discussions with other teams and departments, then two or three focus days where people can work from home and lock in on the tasks they agreed on, without unneccessary interruptions, but of course chatting with each other and collaborating remotely when needed. 
 The office should of course stay open for anyone who wants to be there. Some people have problems focusing at home and some people need the daily social interactions in the office. 

@@ -35,9 +35,9 @@ It was open source and I still had Cursor tokens left, so the only natural next 
 
 Within 24 hours I had a <a href="https://github.com/Sofiakodar/HushSwedish">new working app</a>, that handles both Swedish and English meetings and a few new features and tweaks to things that annoyed me in the original app. The app pre-loads the model as soon as you open the app, to more quickly be ready to transcribe. It clearly shows when it's ready (as the original app often missed the first few sentences). I also added the option of setting some standard meeting names (for example "standup" for meetings every morning at 9, or "Product sync" every Wednesday at 10.) I also made it possible to add colleagues' names more quickly. 
 
-One thing I'm considering for a later version is to use a model more specialized in Swedish: <a href="huggingface.co/KBLab/kb-whisper-large">KB-Whisper Large</a> , made by Kungliga biblioteket. Getting it working properly needs a bit of extra work though.
-
 {{< figure src="Hush_stats.png" alt="Stats" >}}
+
+One thing I'm considering for a later version is to use a model more specialized in Swedish: <a href="huggingface.co/KBLab/kb-whisper-large">KB-Whisper Large</a> , made by Kungliga biblioteket. Getting it working properly needs a bit of extra work though.
 
 You can of course check it out here <a href="https://github.com/Sofiakodar/HushSwedish">HushSwedish</a> and try building and running it (on MacOS). Just remember to let your colleagues know you're transcribing the meeting. 
 
